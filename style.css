@@ -76,3 +76,20 @@ header href {
   color: black;
   border-radius: 5px;
 }
+.Search {
+  position: absolute;
+  top: 2%;
+  left: 43%;
+
+}
+/*.Search {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    min-width: 125px;
+    width: 215px;
+}*/
+/*._icv3j {
+    height: 28px;
+}*/
